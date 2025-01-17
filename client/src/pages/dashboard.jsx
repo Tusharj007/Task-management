@@ -1,9 +1,6 @@
 import React from "react";
 import {
-  MdAdminPanelSettings,
-  MdKeyboardArrowDown,
-  MdKeyboardArrowUp,
-  MdKeyboardDoubleArrowUp,
+  MdAdminPanelSettings, MdKeyboardArrowDown,MdKeyboardArrowUp, MdKeyboardDoubleArrowUp,
 } from "react-icons/md";
 import { LuClipboardEdit } from "react-icons/lu";
 import { FaNewspaper, FaUsers } from "react-icons/fa";
